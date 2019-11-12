@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	color: aquamarine;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60px;
+	font-weight: 200;
+}
